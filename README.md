@@ -1,6 +1,7 @@
 Personal Technical Notes. Some of them are very old and may not work as expected now.
 
 ### k8s/container
+- [Play around with DANM CNI with Rancher custom cluster](https://github.com/hyunsun/documentations/wiki/Play-around-with-DANM-CNI-in-Rancher-custom-cluster)
 - [How to use Rancher Terraform provider](https://github.com/hyunsun/documentations/wiki/Manage-Rancher-resources-with-Terraform)
 - [How to install Rancher Submariner](https://github.com/hyunsun/documentations/wiki/Rancher-Submariner-Test)
 - [How to configure Prometheus federation](https://github.com/hyunsun/documentations/wiki/Prometheus-Federation)
